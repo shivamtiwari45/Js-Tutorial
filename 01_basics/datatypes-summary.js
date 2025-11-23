@@ -32,3 +32,13 @@ const myFunction = function(){
 }
 
 console.log(typeof myFunction);
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Primitve), Heap (Non-primitive)
+
+let myYoutubename = "ShivamTiwari"
+
+let anothername = myYoutubename
+
+console.log(anothername);
