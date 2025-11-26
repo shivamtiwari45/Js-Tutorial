@@ -40,5 +40,21 @@ console.log(typeof myFunction);
 let myYoutubename = "ShivamTiwari"
 
 let anothername = myYoutubename
+anothername = "chaiaurcode"
 
+console.log(myYoutubename);
 console.log(anothername);
+
+let userOne = {
+    email: "user@goole.com"
+    
+}
+
+let userTwo = userOne
+userTwo.email = "Shivam@google.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
+
+
+
